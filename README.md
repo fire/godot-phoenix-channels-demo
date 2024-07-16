@@ -27,7 +27,7 @@ Complete details about the addon and usage instructions are in the addon [reposi
 
 ## Running the sample Elixir Project
 
-A simple Elixir server is available in [Demo/server](./Demo/server).
+A simple Elixir server is available in [Demo/Server](./Demo/Server).
 
 To run it, have Elixir installed, then:
 ```
